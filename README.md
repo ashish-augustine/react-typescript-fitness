@@ -1,7 +1,7 @@
 #  Fitness App - React / Typescript  
  
- Terminal commands to run this project:
- --------------------------------------
+ Terminal commands:
+ ------------------ 
  npm install && 
  npm run dev 
 
