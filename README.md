@@ -1,7 +1,7 @@
 #  Fitness App - React / Typescript  
  
- To run locally: 
-### Terminal commands:  npm install &&  npm run dev 
+### To run locally: 
+ Terminal commands:  npm install &&  npm run dev 
 
  Visit: http://localhost:5173/ 
 
