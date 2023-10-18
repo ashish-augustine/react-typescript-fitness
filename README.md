@@ -2,6 +2,6 @@
  
  Terminal commands to run this project:
  --------------------------------------
- npm install 
+ npm install && 
  npm run dev
 # gym-typescript-master
