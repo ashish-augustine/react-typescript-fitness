@@ -1,4 +1,4 @@
-# Evolutionary Fitness App - React / Typescript  
+#  Fitness App - React / Typescript  
  
  Terminal commands to run this project:
  --------------------------------------
